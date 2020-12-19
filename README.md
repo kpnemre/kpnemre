@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kpnemre&show_icons=true&theme=tokyonight" align='right' width="55%">
 
-
 ## Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kpnemre" alt="kpnemre" /> </p>
 
