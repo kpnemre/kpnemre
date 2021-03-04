@@ -15,7 +15,7 @@
 <img src="./animation_500_kd7ngokt.gif" alt="react-native" width="20%" height="20%" align="right">
 
 - 🔭 I’m currently working on frontend and mobile app development (JavaScript | React | React Native)
-- 🌱 I’m currently learning backend development (Node.js | MongoDB | Django)
+- 🌱 I’m currently working on backend development (Node.js | MongoDB | Django | Django Rest Framework)
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything that you want to learn
 
